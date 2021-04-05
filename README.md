@@ -1,5 +1,5 @@
 # login-register
-### Login/Registration screen with field verification, using material-ui for inputs and buttons
+### Login/Registration screen with field verification, using styled-components and material-ui for inputs and buttons
 ### how to use material-ui: https://material-ui.com
 
 ![image](https://user-images.githubusercontent.com/54006291/113531222-8abdd480-959e-11eb-9e7a-fdc56a5a633d.png)
